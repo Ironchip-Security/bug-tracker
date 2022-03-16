@@ -33,9 +33,6 @@ body:
       - etcd
       - Kubernetes
       - In-memory
-      - Postgres
-      - MySQL
-      - SQLite
   validations:
     required: true
 - type: dropdown
