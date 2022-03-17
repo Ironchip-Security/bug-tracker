@@ -1,5 +1,5 @@
 name: 🐛 Bug report
-description: Report a bug to help us improve Dex
+description: Report a bug to help us improve
 body:
 - type: markdown
   attributes:
@@ -21,28 +21,27 @@ body:
 - type: input
   attributes:
     label: Version
-    description: What version of Dex are you running?
+    description: What version are you running?
     placeholder: 1.1.2
   validations:
     required: true
 - type: dropdown
   attributes:
-    label: Storage Type
+    label: Device Type
     description: Which persistent storage type are you using?
     options:
-      - etcd
-      - Kubernetes
-      - In-memory
+      - Mobile
+      - Desktop
   validations:
     required: true
 - type: dropdown
   attributes:
     label: Installation Type
-    description: How did you install Dex?
+    description: How did you install?
     options:
-      - Store 
-      - Official 
-      - Other (specify below)
+      - Nexus 
+      - Official Store
+      - Other
     multiple: true
   validations:
     required: true
@@ -73,23 +72,7 @@ body:
     description: Links? References? Anything that will give us more context about the issue that you are encountering!
 - type: textarea
   attributes:
-    label: Configuration
-    description: Contents of your configuration file (if relevant).
-    render: yaml
-    placeholder: |
-      issuer: http://127.0.0.1:5556/dex
-
-      storage:
-        # ...
-
-      connectors:
-        # ...
-
-      staticClients:
-        # ...
-- type: textarea
-  attributes:
     label: Logs
-    description: Dex application logs (if relevant).
+    description: application logs (if relevant).
     render: shell
 
