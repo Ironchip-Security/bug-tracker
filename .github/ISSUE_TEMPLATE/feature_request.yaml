@@ -1,5 +1,5 @@
 name: 🚀 Feature request
-description: Suggest an idea for Dex
+description: Suggest an idea for ours products
 body:
 - type: markdown
   attributes:
@@ -8,7 +8,7 @@ body:
 
       Please describe what you would like to change/add and why in detail by filling out the template below.
 
-      If you are not sure if your request fits into Dex, you can contact us via the available [support channels](https://github.com/desalaz/Prueba-Bug-Tracker/issues/new/choose).
+      If you are not sure if your request fits into ours products, you can contact us via the available [support channels](https://github.com/desalaz/Prueba-Bug-Tracker/issues/new/choose).
 - type: checkboxes
   attributes:
     label: Preflight Checklist
