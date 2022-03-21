@@ -59,7 +59,7 @@ First of all, don't panic! There is still a small work to be done before reporti
 
   * **_Better_**: "XXX-dev not showing loopback video"
 
-  * **_Best_**: "XXX 6.7.1-dev, magic-mirror 6.7.1-SNAPSHOT, Mac OSX, FF40: Can't see loopback video"
+  * **_Best_**: "XXX 6.7.1-dev, 6.7.1-SNAPSHOT, Mac OSX, FF40: Can't see loopback video"
 
 * Provide a good description of the problem, with the minimum relevant amount of information to reproduce and diagnose the bug
 
@@ -85,24 +85,33 @@ For some specific type of bugs, there is some more information that you can prov
 
 ### So, how should a bug report look like?
 
-* Summary: How would you describe the bug in less than 60 characters?
+* Title: Name clear the bug in less than 30 characters
+  
+* Preflight Checklist: 
 
 * Version: Select the earliest Version with what the problem can be reproduced.
+  
+* Device Type: Which device Type are you using?
 
-* OS: On which operating system (OS) did you find it?
-
+* Intallation Type: How did you install?
+  
+* Expected results.
+  
+* Actual results.
+  
+* Steps to reproduce.
+  
 * Description: The details of your problem report, including:
 
   * Overview.
 
   * Build Id.
-
-* Steps to reproduce.
-
-* Actual results.
-
-* Expected results.
-
+  
+  * Links
+  
+  * References
+  
+  * Logs
 
 
 About Ironchip
