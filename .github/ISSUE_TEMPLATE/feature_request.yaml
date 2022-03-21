@@ -8,13 +8,13 @@ body:
 
       Please describe what you would like to change/add and why in detail by filling out the template below.
 
-      If you are not sure if your request fits into ours products, you can contact us via the available [support channels](https://github.com/desalaz/Prueba-Bug-Tracker/issues/new/choose).
+      If you are not sure if your request fits into ours products, you can contact us via the available [support channels](https://github.com/Ironchip-Security/bug-tracker/issues/new/choose).
 - type: checkboxes
   attributes:
     label: Preflight Checklist
     description: Please ensure you've completed all of the following.
     options:
-      - label: I have searched the [issue tracker](https://www.github.com/desalaz/Prueba-Bug-Tracker/issues) for an issue that matches the one I want to file, without success.
+      - label: I have searched the [issue tracker](https://www.github.com/Ironchip-Security/bug-tracker/issues) for an issue that matches the one I want to file, without success.
         required: true
 - type: textarea
   attributes:

@@ -8,13 +8,13 @@ body:
 
       Please fill out the template below to make it easier to debug your problem.
 
-       If you are not sure if it is a bug or not, you can contact us via the available [support channels](https://github.com/desalaz/Prueba-Bug-Tracker/issues/new/choose).
+       If you are not sure if it is a bug or not, you can contact us via the available [support channels](https://github.com/Ironchip-Security/bug-tracker/issues/new/choose).
 - type: checkboxes
   attributes:
     label: Preflight Checklist
     description: Please ensure you've completed all of the following.
     options:
-      - label: I have searched the [issue tracker](https://github.com/desalaz/Prueba-Bug-Tracker/issues) for an issue that matches the one I want to file, without success.
+      - label: I have searched the [issue tracker](https://github.com/Ironchip-Security/bug-tracker/issues) for an issue that matches the one I want to file, without success.
         required: true
       - label: I am not looking for support or already pursued the available [support channels](https://helpcenter.ironchip.com/support/) without success.
         required: true
