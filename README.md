@@ -3,12 +3,10 @@
 
 <!--[![][IronchipImage]][Ironchip]-->
 
-Copyright 2021 [Ironchip]. Licensed under [Apache 2.0 License].
+Copyright 2021 [Ironchip].
 
 [Ironchip]: https://www.ironchip.com/
 [IronchipImage]: https://
-[Apache 2.0 License]: http://www.apache.org/licenses/LICENSE-2.0
-
 
 
 Ironchip Bug Tracker
@@ -159,5 +157,3 @@ Licensing and distribution
 --------------------------
 
 Copyright 2021 Ironchip
-
-Licensed under the Apache License, Version 2.0 (the "License");
