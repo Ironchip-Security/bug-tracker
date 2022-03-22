@@ -21,7 +21,7 @@ body:
 - type: input
   attributes:
     label: Version
-    description: What version are you running?
+    description: What version are you running? You can see the version going to the top right of the application, click on the 3 dots, and then click on app information. 
     placeholder: 1.1.2
   validations:
     required: true
