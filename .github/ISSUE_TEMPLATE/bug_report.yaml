@@ -30,8 +30,11 @@ body:
     label: Device Type
     description: Which Devide type are you using?
     options:
-      - Mobile
-      - Desktop
+      - IOs
+      - Android
+      - Windows
+      - Linux
+      - MacOS
   validations:
     required: true
 - type: dropdown
