@@ -8,6 +8,19 @@ Copyright 2021 [Ironchip].
 [Ironchip]: https://www.ironchip.com/
 [IronchipImage]: https://
 
+About Ironchip
+=============
+
+IronChip is a startup that creates cybersecurity solutions based on our exclusive technology, IronChip Location-Based Security, that provides RF based anti-hackers geolocation. IronChip LBS allows companies to protect the digital identity along the value chain in which their employees, customers, suppliers, and logistics are located. For knowing more about Ironchip, please visit the Ironchip project website: https://www.ironchip.com
+
+
+Documentation
+-------------
+
+The Ironchip project provides detailed [documentation] , installation and development guides.
+
+[documentation]: https://helpcenter.ironchip.com/userdocumentation/
+
 
 Ironchip Bug Tracker
 ===================
@@ -17,7 +30,7 @@ Reporting Issues
 
 When reporting a bug, please include as much information as possible, this will help us solve the problem. Also, try to follow these guidelines as closely as possible, because they make it easier for people to work on the issue, and that means more chances that the issue gets fixed:
 
-- **Be proactive**. If you are working with an old version of our products, please check with newer versions, specially with the [latest pre-release version](https://....). We can't emphasize this enough: *it's the first thing that we are going to ask*.
+- **Be proactive**. If you are working with an old version of our products, please check with newer versions. We can't emphasize this enough: *it's the first thing that we are going to ask*.
 
 - **Be curious**. Has it been asked before? Is it really a bug? Everybody hates duplicated reports. The Search tool is your friend!
 
@@ -34,8 +47,6 @@ How to report a bug
 The first thing before reporting a bug, is to really make sure it is a bug. Many of the messages from the list are not bugs: coding issues, configuration problems... In order to make sure there is indeed a bug, you can follow this checklist:
 
 * Read the documentation: If the answer is in the documentation, the answer will be "Read the documentation!"... one mail round wasted.
-
-* Check the documentation to test with the [latest pre-release version](https://doc../en/latest/user/installation_dev.html).
 
 * Is it working on a different browser?
 
@@ -110,46 +121,6 @@ For some specific type of bugs, there is some more information that you can prov
   * References
   
   * Logs
-
-
-About Ironchip
-=============
-
-IronChip is a startup that creates cybersecurity solutions based on our exclusive technology, IronChip Location-Based Security, that provides RF based anti-hackers geolocation. IronChip LBS allows companies to protect the digital identity along the value chain in which their employees, customers, suppliers, and logistics are located. For knowing more about Ironchip, please visit the Ironchip project website: https://www.ironchip.com
-
-
-Documentation
--------------
-
-The Ironchip project provides detailed [documentation] , installation and development guides.
-
-[documentation]: https://helpcenter.ironchip.com/userdocumentation/
-
-
-Useful Links
-------------
-
-Usage:
-
-* [Installation Guide](https://doc-/en/latest/user/installation.html)
-
-Issues:
-
-* [Bug Tracker](https://github.com/Ironchip-Security/bug-tracker/issues)
-* [Support](https:// .... /user/support.html)
-
-News:
-
-* [Ironchip Blog](https://www/blog)
-
-
-
-Source
-------
-
-All source code belonging to the Ironchip project can be found in the [Ironchip GitHub organization page].
-
-[Ironchip GitHub organization page]: https://github.com/Ironchip
 
 
 
